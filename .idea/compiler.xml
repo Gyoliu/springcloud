@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config_client" />
+        <module name="config_service" />
+        <module name="eureka01" />
+        <module name="eureka_center" />
+        <module name="eureka_center_a" />
+        <module name="eureka_client" />
+        <module name="eureka_server01" />
+        <module name="eureka_server02" />
+        <module name="feign-with-hystrix" />
+        <module name="rabbitmq-hello" />
+        <module name="ribbon_consumer" />
+        <module name="springcloud" />
+        <module name="turbine" />
+        <module name="zipkin-server" />
+        <module name="zuul_filter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config_client" target="1.8" />
+      <module name="config_service" target="1.8" />
+      <module name="eureka01" target="1.8" />
+      <module name="eureka_center" target="1.8" />
+      <module name="eureka_center_a" target="1.8" />
+      <module name="eureka_client" target="1.8" />
+      <module name="eureka_server01" target="1.8" />
+      <module name="eureka_server02" target="1.8" />
+      <module name="feign-with-hystrix" target="1.8" />
+      <module name="rabbitmq-hello" target="1.8" />
+      <module name="ribbon_consumer" target="1.8" />
+      <module name="springcloud" target="1.5" />
+      <module name="turbine" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+      <module name="zuul_filter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

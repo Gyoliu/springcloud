@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config_client/config_client.iml" filepath="$PROJECT_DIR$/config_client/config_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_service/config_service.iml" filepath="$PROJECT_DIR$/config_service/config_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_center/eureka_center.iml" filepath="$PROJECT_DIR$/eureka_center/eureka_center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_center_a/eureka_center_a.iml" filepath="$PROJECT_DIR$/eureka_center_a/eureka_center_a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server01/eureka_server01.iml" filepath="$PROJECT_DIR$/eureka_server01/eureka_server01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server02/eureka_server02.iml" filepath="$PROJECT_DIR$/eureka_server02/eureka_server02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-with-hystrix/feign-with-hystrix.iml" filepath="$PROJECT_DIR$/feign-with-hystrix/feign-with-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-hello/rabbitmq-hello.iml" filepath="$PROJECT_DIR$/rabbitmq-hello/rabbitmq-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_consumer/ribbon_consumer.iml" filepath="$PROJECT_DIR$/ribbon_consumer/ribbon_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine/turbine.iml" filepath="$PROJECT_DIR$/turbine/turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-server/zipkin-server.iml" filepath="$PROJECT_DIR$/zipkin-server/zipkin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul_filter/zuul_filter.iml" filepath="$PROJECT_DIR$/zuul_filter/zuul_filter.iml" />
+    </modules>
+  </component>
+</project>
